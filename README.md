@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Computer Vision
 - 🌱 I’m currently learning Deep learning, Machine Learning
-- 📫 How to reach me: debobratachakaraborty80@gmail.com
+- 📫 How to reach me: 
 
 
