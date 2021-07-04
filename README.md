@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep learning, Machine Learning
  - ⚡ Fun fact: I love to play guitar 🎸 
 
+
+[![Spotify](https://kakonnovatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31tqxqjxigyptpuwzf534uvwsmy4)
+
 ### Connect with me: </br>
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -45,7 +48,6 @@ Here are some ideas to get you started:
 
 ![Debobrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=debobrata-chakraborty-kakon&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debobrata-chakraborty-kakon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
