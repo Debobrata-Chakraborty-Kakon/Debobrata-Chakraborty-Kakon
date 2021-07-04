@@ -3,6 +3,7 @@
 <!--
 **Debobrata-Chakraborty-Kakon/Debobrata-Chakraborty-Kakon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,7 +17,6 @@ Here are some ideas to get you started:
  - ⚡ Fun fact: I love to play guitar 🎸 
 
 
-[![Spotify](https://kakonnovatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31tqxqjxigyptpuwzf534uvwsmy4)
 
 ### Connect with me: </br>
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -47,6 +47,10 @@ Here are some ideas to get you started:
 <br />
 
 ![Debobrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=debobrata-chakraborty-kakon&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debobrata-chakraborty-kakon&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Spotify](https://kakonnovatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31tqxqjxigyptpuwzf534uvwsmy4)
 
 
 
