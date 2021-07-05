@@ -2,7 +2,9 @@
 
 <!--
 **Debobrata-Chakraborty-Kakon/Debobrata-Chakraborty-Kakon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://kakonnovatorem.vercel.app/now-playing?open">
+    <img src="https://kakonnovatorem.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
@@ -50,8 +52,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debobrata-chakraborty-kakon&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Spotify Now Playing:
-[![Spotify](https://kakonnovatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31tqxqjxigyptpuwzf534uvwsmy4)
+| Spotify Now Playing:                                                                                               |
+|-----------------------------------------------------------------------------------------------------------------------|
+|[![Spotify](https://kakonnovatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31tqxqjxigyptpuwzf534uvwsmy4)| 
+
 
 
 
