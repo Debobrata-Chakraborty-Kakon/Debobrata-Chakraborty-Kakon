@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
  ...
 -->
-- 🔭 I’m currently working on Computer Vision, ASP.NET 
-- 🌱 I’m currently learning Deep learning, Machine Learning
- - ⚡ Fun fact: I love to play guitar 🎸 
+- 🔭 I’m currently working on Computer Vision
+- 🌱 I’m currently learning Deep learning, Machine Learning 
+ -⚡ Fun fact: I love to play guitar 🎸 
 
 
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/50/000000/tensorflow.png"/>
 <img align="left" alt="Keras" width="80x" src="https://keras.io/img/logo.png" />
-<img align="left" alt="Numpy" width="26x" src="https://techscript24.com/wp-content/uploads/2020/10/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />
+
 <img align="left" alt="Matplotlib" width="100px" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" />
 <img align="left" alt="Weka" width="26x" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_8c10cc72a4d651d34af6b29fb7c84c01/weka.png" />
 <img align="left" alt="Weka" width="26x" src="https://www.vhv.rs/dpng/d/38-384674_opencv-logo-png-transparent-png.png" />
