@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Computer Vision
 - 🌱 I’m currently learning Deep learning, Machine Learning 
- -⚡ Fun fact: I love to play guitar 🎸 
+- ⚡ Fun fact: I love to play guitar 🎸 
 
 
 
