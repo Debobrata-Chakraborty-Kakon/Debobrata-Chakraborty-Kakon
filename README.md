@@ -59,7 +59,12 @@ Here are some ideas to get you started:
 
 
 
+---
 
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/Debobrata-Chakraborty-Kakon/count.svg" />
+</p>
 
 
 
