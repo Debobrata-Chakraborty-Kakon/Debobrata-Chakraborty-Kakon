@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
  ...
 -->
-- 🔭 I’m currently working on Computer Vision
+- 🔭 I’m currently working on Computer Vision, Mobile App Development and IOT
 - 🌱 I’m currently learning Deep learning, Machine Learning 
 - ⚡ Fun fact: I love to play guitar 🎸 
 
