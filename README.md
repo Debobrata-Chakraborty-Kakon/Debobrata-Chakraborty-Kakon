@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![Debobrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=debobrata-chakraborty-kakon&show_icons=true&theme=radical)
+![Debobrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=dckakon&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debobrata-chakraborty-kakon&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dckakon&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 | Spotify Now Playing:                                                                                               |
 |-----------------------------------------------------------------------------------------------------------------------|
