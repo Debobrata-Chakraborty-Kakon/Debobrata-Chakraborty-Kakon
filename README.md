@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter,  Deep learning<br>🌱 I’m currently learning FastAPI, Computer Vision<br>⚡ Fun fact: I love to play guitar
+🔭 I’m currently working on NLP,  Deep learning<br>🌱 I’m currently learning Point Cloud, Computer Vision<br>⚡ Fun fact: I love to play guitar
 
 
 ## 🌐 Socials:
